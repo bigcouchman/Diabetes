@@ -1,3 +1,5 @@
+# Test these queries through entering them in your terminal and verifying the response matches what is commented
+
 ?- under_control(sam).
 # (Fail ALL), John (GOOD)
 
