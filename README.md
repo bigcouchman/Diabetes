@@ -24,7 +24,7 @@ Our team collaborated to write and debug the program, using Prolog's powerful re
 ## Challenges we ran into
 - **Learning a new language**: We encountered a learning curve while working with Prolog and other new tools.
 - **Debugging errors**: We faced challenges in debugging syntax and runtime errors that arose during development.
-- **Multiple Output Printing**: We faced printing printing multiple responses when outputting.
+- **Multiple Output Printing**: We faced challenges printing multiple responses when outputting.
 
 ## Accomplishments that we're proud of
 - **Successful application development**: We built an application that enables individuals with diabetes to better manage their blood sugar levels.
