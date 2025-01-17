@@ -1,2 +1,1 @@
-# Diabetes
-We are finding a permanent cure for diabetes
+# GlycoHealth - HackReason 2024
