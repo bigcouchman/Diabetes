@@ -14,3 +14,6 @@
 
 ?- advice(elizabeth, Advice). 
 # (Fail ALL)
+
+?- advice(sam, Advice).
+# (Fail ALL)
