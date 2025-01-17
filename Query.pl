@@ -1,12 +1,14 @@
-?- under_control(Sam).
-# What is the output of the query above?
+?- under_control(sam).
+# (Fail ALL), John (GOOD)
 
-?- has_type_1(Alisha).
-# What is the output of the query above?
+?- physical_level(A, 4).
+# (RETURN A = 'john')
 
-?- type(none).
-# What is the output of the query above?
+?- type(john, A).
+# (RETURN A = 'Type 1 Diabetes')
 
-?-advice(John, "Monitor glucose level").
-# What is the output of the query above?
+?- advice(john, Advice).
+# (GOOD)
 
+?- advice(elizabeth, Advice). 
+# (Fail ALL)
