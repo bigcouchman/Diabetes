@@ -1,3 +1,5 @@
+HACK REASONING 2025: https://devpost.com/software/glycohealth
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=GlycoHealth+Hack+2025)](https://git.io/typing-svg)
 ## Inspiration
 Diabetes is a prevalent issue affecting millions of people worldwide. According to the CDC, 38.4 million Americans had some form of diabetes in 2021, and this number continues to rise. Individuals with type 1 and type 2 diabetes must actively monitor their blood sugar levels, take prescribed medications, and make lifestyle adjustments to stay healthy. Managing diabetes can be challenging, given its impact on the body. Our system, **GlycoHealth**, aims to help individuals with diabetes better manage their blood sugar levels and make healthier lifestyle choices in a guided manner, ensuring they can navigate the challenges of their condition.
